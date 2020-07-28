@@ -1,4 +1,4 @@
-#importing datetime now
+#importing datetime
 import datetime
 this_year = datetime.datetime.now().year 
 
